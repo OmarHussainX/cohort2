@@ -1,7 +1,9 @@
 /*
 line 2
 line 2.5
-line 3 'in temp repository'
+<<<<<<< HEAD
+line 3 'changes merged! - conflict resolved...'
+>>>>>>> e7fe6b23dc4c46a40bc50b0d90e25e10a5645e7c
 line 4
 line 5
 line 6
